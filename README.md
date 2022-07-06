@@ -1,7 +1,7 @@
 # Trabalho-final
 
 INTRUÇÕES DE USO:
-*Após a inicialização do programa ira surgir um menu, digite 1 caso queira analisar o DNA
+*Após a inicialização do programa ira surgir um menu, digite 1 caso queira analisar o DNA;
 e descobrir se é um DNA de símio ou de um humano, caso queira encerrar o programa digite 2.
 *Caso tenha digitado 1,  agora você terá que colocar algumas informações tais como o nome de quem
 é o DNA e a idade do mesmo.
